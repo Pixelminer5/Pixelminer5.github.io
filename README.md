@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a BSc (Hons) Degree in Computer Games Development
 - 💞️ I’m currently not looking to Collaborate yet
 - 📫 How to reach me - Kurtlassmans@gmail.com
-- My Pronouns are She/Her/He/Him
+- My Pronouns are She/Her
 - Coding is fun but tough, i like a good challenge
 My Portfolio - https://pixelminer5.github.io/Pixelminer5/
 
