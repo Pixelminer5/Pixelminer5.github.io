@@ -5,7 +5,7 @@
 - 📫 How to reach me - Kurtlassmans@gmail.com
 - My Pronouns are She/Her
 - Coding is fun but tough, i like a good challenge
-My Portfolio - https://pixelminer5.github.io/Pixelminer5/
+My Portfolio - https://pixelminer5.github.io/
 
 Currently i am taking part in tasks that are apart of my University
 I have learnt c++, c# and Blueprint while studying.
